@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run MainExperimentos",
+      "request": "launch",
+      "mainClass": "MainExperimentos",
+      "vmArgs": "-Xms2g -Xmx14g"
+    }
+  ]
+}
